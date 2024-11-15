@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 Actualmente estoy trabajando en un programa de manejo de stock con uso de lector qr
+- 📫 Pueden contactarse conmigo por medio de mi perfil de Linkedin: https://www.linkedin.com/in/christian-david-villar-colodro/ o por mi mail: christiandvillar@gmail.com
 <!--
 **ChristianDVillar/ChristianDVillar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
