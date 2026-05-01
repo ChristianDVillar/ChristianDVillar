@@ -1,47 +1,69 @@
-👋 ¡Hola! Soy Christian David Villar
+# 👋 ¡Hola! Soy Christian David Villar
 
-Soy Desarrollador Full-Stack con más de 15 años de experiencia en soporte técnico TI, automatización de procesos, desarrollo de aplicaciones internas y atención al cliente. Me especializo en crear soluciones prácticas, simples y enfocadas en mejorar flujos de trabajo reales.
+🚀 Desarrollador Full-Stack especializado en crear soluciones prácticas para negocios, automatización y sistemas internos.
 
-Actualmente estoy ampliando mi portfolio con proyectos personales orientados a la gestión de negocios, automatización y herramientas internas.
+Actualmente estoy construyendo productos propios enfocados en comunicación y gestión de comunidades.
 
-🔧 Tecnologías que uso
+---
 
-Frontend: React · JavaScript · HTML · CSS
-Backend: Python · Flask · Node.js
-Bases de datos: PostgreSQL · SQL · Oracle
-Otros: Git · Linux · Docker · APIs REST · PHP · Java
+## 🚀 Proyectos Actuales
 
-🚀 Proyectos Destacados
-📦 Sistema de Gestión de Stock
+### 💬 AkoeNet
+Plataforma de comunicación tipo Discord enfocada en comunidades privadas y herramientas de gestión.
 
-Aplicación en desarrollo con QR/Lector de códigos, control de inventario, registro de movimientos, reportes y API propia.
-Stack: React · Flask · PostgreSQL
+🔗 https://github.com/dakinissystems/akoenet-client
 
-🍨 Software para Heladería
+### 🏢 Dakinis Systems
+Organización donde desarrollo soluciones digitales escalables.
 
-Herramienta interna para gestión de productos, ventas, costos y reportes automáticos.
-Stack: Python · SQLite · React (versión nueva en progreso)
+🔗 https://github.com/dakinissystems
 
-🔧 Utilidades y APIs Personales
+---
 
-Microproyectos que resuelven tareas diarias, integraciones simples y automatización de procesos.
-Stack: Python · JavaScript · Flask
+## 🔧 Tecnologías
 
-💼 Experiencia relevante
+**Frontend:** React · JavaScript · HTML · CSS  
+**Backend:** Python · Flask · Node.js  
+**Bases de datos:** PostgreSQL · SQL · Oracle  
+**Otros:** Docker · Linux · APIs REST · Git · DevOps  
 
-15 años como Técnico TI Senior en la Universidad Católica Argentina.
+---
 
-Desarrollo y migración de aplicaciones internas (PHP, Java).
+## 📦 Proyectos Destacados
 
-Liderazgo del proyecto de islas de impresión para 7 sedes.
+### Sistema de Gestión de Stock
+Aplicación con control de inventario, escaneo QR, movimientos y reportes.
 
-Implementación, soporte y automatización de sistemas internos.
+**Stack:** React · Flask · PostgreSQL
 
-Experiencia real en soporte a usuarios, mantenimiento de infra y soluciones prácticas.
+---
 
-📫 Contacto
+### Software para Heladería
+Sistema de gestión de productos, ventas y costos con reportes automáticos.
 
-📍 Málaga, España
-🔗 LinkedIn: https://www.linkedin.com/in/christian-david-villar-colodro/
+**Stack:** Python · SQLite · React
 
+---
+
+### Utilidades y APIs
+Microservicios y herramientas para automatización de tareas e integración de sistemas.
+
+**Stack:** Python · JavaScript · Flask
+
+---
+
+## 💼 Experiencia
+
+- 15 años como Técnico TI Senior en entorno universitario
+- Desarrollo y migración de sistemas (PHP, Java)
+- Liderazgo de proyectos de infraestructura (islas de impresión)
+- Automatización de procesos internos
+- Soporte avanzado a usuarios y sistemas
+
+---
+
+## 📫 Contacto
+
+📍 España  
+🔗 LinkedIn: https://www.linkedin.com/in/christian-david-villar-colodro/  
 📧 Email: christiandvillar@gmail.com
