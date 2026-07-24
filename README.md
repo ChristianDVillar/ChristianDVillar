@@ -1,48 +1,53 @@
-# 👋 Hola, soy Christian David Villar
+# 👋 Hi, I'm Christian David Villar
 
 ### Senior IT Support Engineer | Systems Administration | Process Automation | Building SaaS at Dakinis Systems
 
-Soy un profesional de **Soporte IT con más de 15 años de experiencia** ayudando a usuarios, administrando infraestructuras y resolviendo incidencias en entornos empresariales.
+I'm an **IT Support professional with over 15 years of experience** helping users, managing IT infrastructure and solving technical problems in enterprise environments with more than **2,000 users**.
 
-Con el tiempo descubrí que muchos problemas no se solucionan únicamente dando soporte, sino creando herramientas que eviten que vuelvan a ocurrir. Esa idea me llevó a aprender desarrollo de software y a crear **Dakinis Systems**, donde construyo aplicaciones SaaS orientadas a la automatización y la mejora de procesos.
+Throughout my career, I realized that solving incidents is only part of the job. The greatest value comes from eliminating the causes behind recurring problems. That mindset led me to learn software development and create **Dakinis Systems**, where I build SaaS applications focused on automation, communication and business management.
 
-> **Creo que el mejor soporte técnico no consiste únicamente en resolver problemas, sino en evitar que vuelvan a ocurrir.**
+> **I believe the best IT Support is not only about solving problems, but also about preventing them from happening again.**
 
 ---
 
-# 💼 Experiencia Profesional
+# 💼 Professional Experience
 
-✔ 15+ años en Soporte IT
-
-✔ Administración de Windows y Active Directory
-
-✔ Soporte a más de 2.000 usuarios
-
-✔ Resolución de incidencias N1 / N2 / N3
-
-✔ Administración de infraestructura
-
-✔ Automatización de procesos internos
-
-✔ Desarrollo de herramientas para departamentos IT
+- 🖥️ 15+ years in IT Support
+- 👥 Supporting environments with **2,000+ users**
+- 🎫 Managing **150–200 support tickets per week**
+- 🏢 Enterprise IT Infrastructure
+- 🔐 Active Directory & Windows Administration
+- 🌐 Networking & Hardware Troubleshooting
+- 💻 N1 / N2 / N3 Technical Support
+- ⚙️ Process Automation
+- 🚀 Internal Software Development
 
 ---
 
 # 🚀 Dakinis Systems
 
-Dakinis Systems es mi laboratorio de innovación, donde desarrollo soluciones SaaS inspiradas en problemas reales observados durante años trabajando en soporte técnico.
+**Dakinis Systems** is where I design and build SaaS solutions inspired by real operational challenges experienced throughout my IT Support career.
 
-Mi objetivo es crear herramientas que ayuden a empresas y equipos a trabajar de forma más eficiente mediante automatización, comunicación e inteligencia artificial.
+The goal is simple:
+
+Create software that helps businesses work more efficiently through automation, communication, artificial intelligence and modern cloud technologies.
 
 ---
 
-# 📦 Proyectos Destacados
+# 📦 Featured Projects
 
 ## 💬 AkoeNet
 
-Plataforma moderna de comunicación para comunidades y organizaciones privadas.
+A modern communication platform designed for private communities and organizations.
 
-**Stack**
+**Highlights**
+
+- Real-time messaging
+- Voice channels
+- Moderation tools
+- AI integrations
+
+**Tech Stack**
 
 React • Node.js • PostgreSQL • Socket.IO
 
@@ -50,36 +55,44 @@ React • Node.js • PostgreSQL • Socket.IO
 
 ## 🤖 StreamAutomator
 
-Automatización para creadores de contenido con integración entre Twitch, Discord y otras plataformas.
+Automation platform for content creators.
+
+Synchronizes content between Twitch, Discord and other streaming platforms while reducing repetitive tasks.
 
 ---
 
-## 📊 Sistema de Gestión de Stock
+## 📊 Inventory Management System
 
-Aplicación diseñada para gestionar inventario, activos y movimientos mediante escaneo QR.
+Inventory and IT asset management platform with QR code scanning, movement tracking and reporting.
+
+Designed from real operational needs observed in enterprise IT environments.
+
+**Tech Stack**
 
 React • Flask • PostgreSQL
 
 ---
 
-## 💰 LifeFlow Finanzas
+## 💰 LifeFlow Finance
 
-Aplicación para gestión financiera personal con enfoque en patrimonio, presupuestos y flujo de caja.
+Personal finance platform focused on budgeting, cash flow forecasting and net worth management.
 
 ---
 
-# 🛠 Tecnologías
+# 🛠️ Technical Skills
 
-### IT Support
+## IT Support
 
-- Windows
+- Windows Administration
 - Active Directory
+- Technical Troubleshooting
 - Networking
-- Hardware
+- Hardware Maintenance
 - Remote Support
-- Troubleshooting
+- IT Infrastructure
+- Process Improvement
 
-### Development
+## Software Development
 
 - JavaScript
 - React
@@ -90,22 +103,42 @@ Aplicación para gestión financiera personal con enfoque en patrimonio, presupu
 - Docker
 - REST APIs
 - Git
+- Linux
 
 ---
 
-# 🌱 Actualmente
+# 🌱 Currently Working On
 
-- Mejorando AkoeNet
-- Desarrollando Dakinis Core
-- Explorando IA aplicada a empresas
-- Aprendiendo arquitectura cloud y DevOps
+- 🚀 AkoeNet
+- ⚙️ Dakinis Core
+- 🤖 AI-powered business automation
+- ☁️ Cloud Architecture & DevOps
 
 ---
 
-# 📫 Contacto
+# 📈 GitHub Stats
 
-📍 Málaga, España
+- 💻 15+ Years of IT Experience
+- 👥 2,000+ Supported Users
+- 🎫 150–200 Weekly Tickets
+- 🚀 Building SaaS Products
+- 📚 Continuous Learning
 
-🔗 LinkedIn: https://www.linkedin.com/in/christian-david-villar-colodro/
+---
 
-📧 christiandvillar@gmail.com
+# 🤝 Let's Connect
+
+📍 Málaga, Spain
+
+💼 LinkedIn  
+https://www.linkedin.com/in/christian-david-villar-colodro/
+
+🏢 Dakinis Systems  
+https://github.com/dakinissystems
+
+📧 Email  
+**christiandvillar@gmail.com**
+
+---
+
+> *"Technology creates the greatest value when it not only solves today's problems, but also prevents tomorrow's."*
