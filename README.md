@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christian David Villar
 
-### Senior IT Support Engineer | Systems Administration | Process Automation | Building SaaS at Dakinis Systems
+### Senior IT Support Engineer | Process Automation | Building SaaS at Dakinis Systems
 
 I'm an **IT Support professional with over 15 years of experience** helping users, managing IT infrastructure and solving technical problems in enterprise environments with more than **2,000 users**.
 
@@ -18,7 +18,7 @@ Throughout my career, I realized that solving incidents is only part of the job.
 - 🏢 Enterprise IT Infrastructure
 - 🔐 Active Directory & Windows Administration
 - 🌐 Networking & Hardware Troubleshooting
-- 💻 N1 / N2 / N3 Technical Support
+- 💻 N1 / N2 Technical Support
 - ⚙️ Process Automation
 - 🚀 Internal Software Development
 
