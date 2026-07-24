@@ -1,69 +1,115 @@
-# 👋 ¡Hola! Soy Christian David Villar
+# 👋 Hola, soy Christian David Villar
 
-🚀 Desarrollador Full-Stack especializado en crear soluciones prácticas para negocios, automatización y sistemas internos.
+### Senior IT Support Engineer | Systems Administration | Full-Stack Developer
 
-Actualmente estoy construyendo productos propios enfocados en comunicación y gestión de comunidades.
+Soy un profesional de **Soporte IT con más de 15 años de experiencia** ayudando a usuarios, administrando infraestructuras y resolviendo incidencias en entornos empresariales.
 
----
+Con el tiempo descubrí que muchos problemas no se solucionan únicamente dando soporte, sino creando herramientas que eviten que vuelvan a ocurrir. Esa idea me llevó a aprender desarrollo de software y a crear **Dakinis Systems**, donde construyo aplicaciones SaaS orientadas a la automatización y la mejora de procesos.
 
-## 🚀 Proyectos Actuales
-
-### 💬 AkoeNet
-Plataforma de comunicación tipo Discord enfocada en comunidades privadas y herramientas de gestión.
-
-🔗 https://github.com/dakinissystems/akoenet-client
-
-### 🏢 Dakinis Systems
-Organización donde desarrollo soluciones digitales escalables.
-
-🔗 https://github.com/dakinissystems
+> **Creo que el mejor soporte técnico no consiste únicamente en resolver problemas, sino en evitar que vuelvan a ocurrir.**
 
 ---
 
-## 🔧 Tecnologías
+# 💼 Experiencia Profesional
 
-**Frontend:** React · JavaScript · HTML · CSS  
-**Backend:** Python · Flask · Node.js  
-**Bases de datos:** PostgreSQL · SQL · Oracle  
-**Otros:** Docker · Linux · APIs REST · Git · DevOps  
+✔ 15+ años en Soporte IT
 
----
+✔ Administración de Windows y Active Directory
 
-## 📦 Proyectos Destacados
+✔ Soporte a más de 2.000 usuarios
 
-### Sistema de Gestión de Stock
-Aplicación con control de inventario, escaneo QR, movimientos y reportes.
+✔ Resolución de incidencias N1 / N2 / N3
 
-**Stack:** React · Flask · PostgreSQL
+✔ Administración de infraestructura
 
----
+✔ Automatización de procesos internos
 
-### Software para Heladería
-Sistema de gestión de productos, ventas y costos con reportes automáticos.
-
-**Stack:** Python · SQLite · React
+✔ Desarrollo de herramientas para departamentos IT
 
 ---
 
-### Utilidades y APIs
-Microservicios y herramientas para automatización de tareas e integración de sistemas.
+# 🚀 Dakinis Systems
 
-**Stack:** Python · JavaScript · Flask
+Dakinis Systems es mi laboratorio de innovación, donde desarrollo soluciones SaaS inspiradas en problemas reales observados durante años trabajando en soporte técnico.
 
----
-
-## 💼 Experiencia
-
-- 15 años como Técnico TI Senior en entorno universitario
-- Desarrollo y migración de sistemas (PHP, Java)
-- Liderazgo de proyectos de infraestructura (islas de impresión)
-- Automatización de procesos internos
-- Soporte avanzado a usuarios y sistemas
+Mi objetivo es crear herramientas que ayuden a empresas y equipos a trabajar de forma más eficiente mediante automatización, comunicación e inteligencia artificial.
 
 ---
 
-## 📫 Contacto
+# 📦 Proyectos Destacados
 
-📍 España  
-🔗 LinkedIn: https://www.linkedin.com/in/christian-david-villar-colodro/  
-📧 Email: christiandvillar@gmail.com
+## 💬 AkoeNet
+
+Plataforma moderna de comunicación para comunidades y organizaciones privadas.
+
+**Stack**
+
+React • Node.js • PostgreSQL • Socket.IO
+
+---
+
+## 🤖 StreamAutomator
+
+Automatización para creadores de contenido con integración entre Twitch, Discord y otras plataformas.
+
+---
+
+## 📊 Sistema de Gestión de Stock
+
+Aplicación diseñada para gestionar inventario, activos y movimientos mediante escaneo QR.
+
+React • Flask • PostgreSQL
+
+---
+
+## 💰 LifeFlow Finanzas
+
+Aplicación para gestión financiera personal con enfoque en patrimonio, presupuestos y flujo de caja.
+
+---
+
+# 🛠 Tecnologías
+
+### IT Support
+
+- Windows
+- Active Directory
+- Networking
+- Hardware
+- Remote Support
+- Troubleshooting
+
+### Development
+
+- JavaScript
+- React
+- Node.js
+- Python
+- Flask
+- PostgreSQL
+- Docker
+- REST APIs
+- Git
+
+---
+
+# 🌱 Actualmente
+
+- Mejorando AkoeNet
+- Desarrollando Dakinis Core
+- Explorando IA aplicada a empresas
+- Aprendiendo arquitectura cloud y DevOps
+
+---
+
+# 📫 Contacto
+
+📍 Málaga, España
+
+🔗 LinkedIn
+
+https://www.linkedin.com/in/christian-david-villar-colodro/
+
+📧
+
+christiandvillar@gmail.com
