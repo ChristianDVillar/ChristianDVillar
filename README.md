@@ -1,6 +1,6 @@
 # 👋 Hola, soy Christian David Villar
 
-### Senior IT Support Engineer | Systems Administration | Full-Stack Developer
+### Senior IT Support Engineer | Systems Administration | Process Automation | Building SaaS at Dakinis Systems
 
 Soy un profesional de **Soporte IT con más de 15 años de experiencia** ayudando a usuarios, administrando infraestructuras y resolviendo incidencias en entornos empresariales.
 
@@ -106,10 +106,6 @@ Aplicación para gestión financiera personal con enfoque en patrimonio, presupu
 
 📍 Málaga, España
 
-🔗 LinkedIn
+🔗 LinkedIn: https://www.linkedin.com/in/christian-david-villar-colodro/
 
-https://www.linkedin.com/in/christian-david-villar-colodro/
-
-📧
-
-christiandvillar@gmail.com
+📧 christiandvillar@gmail.com
